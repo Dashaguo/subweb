@@ -6,7 +6,7 @@ export const navBarItem = [
   },
   {
     title: '短链接',
-    link: 'https://s.ops.ci',
+    link: 'https://opi.lol',
     target: '_blank',
   },
   {
