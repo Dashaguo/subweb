@@ -1,7 +1,7 @@
 <template>
   <ul class="copyright">
     <li class="footer">
-      GitHub:
+      Design By:
       <a href="https://github.com/stilleshan/subweb" target="_blank"
         >stilleshan/subweb</a
       >
