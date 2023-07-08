@@ -57,7 +57,7 @@
           <input
             v-model="manualApiUrl"
             type="text"
-            placeholder="示例：https://sub.ops.ci"
+            placeholder="示例：https://api.opi.lol"
           />
         </div>
         <div
